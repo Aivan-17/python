@@ -1,0 +1,15 @@
+List of Keywords in Python
+This tutorial provides brief information on all keywords used in Python.
+
+Keywords are the reserved words in Python. We cannot use a keyword as a variable name, function name or any other identifier.
+
+Here's a list of all keywords in Python Programming
+
+Keywords in Python programming language
+False	        await	        else	        import	        pass
+None	        break	        except	        in	            raise
+True	        class	        finally	        is	            return
+and	            continue	    for	            lambda	        try
+as	            def	            from	        nonlocal	    while
+assert	        del	            global	        not	            with
+async	        elif	        if	            or	            yield
