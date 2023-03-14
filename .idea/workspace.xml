@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a66d9f02-7798-4f2a-9aa0-a07ccb29ac76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codigo facilito/clase 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codigo facilito/clase 6 Constantes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codigo facilito/clase 7 Palabras reservadas en Python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codigo facilito/clase 8 Comentarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codigo facilito/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codigo facilito/clase 11 Relacionales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codigo facilito/clase 12 Logicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras_informaticas/video 03 Sintaxis Basica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras_informaticas/video 06 Funciones II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras_informaticas/video 07 las listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras_informaticas/video 08 Las Tuplas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,19 +29,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/aivan/Documents/python/codigo facilito",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aivan/Documents/python/codigo facilito&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.video 08 Las Tuplas">
+    <configuration name="video 07 las listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pildoras_informaticas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 07 las listas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video 08 Las Tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pildoras_informaticas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 08 Las Tuplas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.video 08 Las Tuplas" />
+        <item itemvalue="Python.video 07 las listas" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +103,9 @@
       <option name="presentableId" value="Default" />
       <updated>1678415257577</updated>
       <workItem from="1678415259763" duration="33000" />
-      <workItem from="1678453982261" duration="2576000" />
+      <workItem from="1678453982261" duration="3567000" />
+      <workItem from="1678722111848" duration="1008000" />
+      <workItem from="1678759659054" duration="4162000" />
     </task>
     <servers />
   </component>
@@ -69,9 +124,15 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$video_03_Sintaxis_Basica.coverage" NAME="video 03 Sintaxis Basica Coverage Results" MODIFIED="1678761072884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_07_las_listas.coverage" NAME="video 07 las listas Coverage Results" MODIFIED="1678763614480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_08_Las_Tuplas.coverage" NAME="video 08 Las Tuplas Coverage Results" MODIFIED="1678764162447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
     <SUITE FILE_PATH="coverage/python$clase_9_Tipo_de_Datos.coverage" NAME="clase 9 Tipo de Datos Coverage Results" MODIFIED="1678456302520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$clase_10_Tipado_Dinamico.coverage" NAME="clase 10 Tipado Dinamico Coverage Results" MODIFIED="1678456725443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$video_6_Funciones_II.coverage" NAME="video 6 Funciones II Coverage Results" MODIFIED="1678761694382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
     <SUITE FILE_PATH="coverage/python$clase_8_Comentarios.coverage" NAME="clase 8 Comentarios Coverage Results" MODIFIED="1678455440319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
     <SUITE FILE_PATH="coverage/python$clase_5.coverage" NAME="clase 5 Coverage Results" MODIFIED="1678454846056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
     <SUITE FILE_PATH="coverage/python$clase_6_Constantes.coverage" NAME="clase 6 Constantes Coverage Results" MODIFIED="1678455047230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$clase_11_Relacionales.coverage" NAME="clase 11 Relacionales Coverage Results" MODIFIED="1678722508020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
   </component>
 </project>
