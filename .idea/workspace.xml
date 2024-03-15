@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a66d9f02-7798-4f2a-9aa0-a07ccb29ac76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pildoras_informaticas/probando.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/video_06_Funciones_II.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras_informaticas/video 20 Generadores II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pildoras_informaticas/video 21 Excepciones I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba.py" beforeDir="false" afterPath="$PROJECT_DIR$/prueba.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,27 +31,44 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2MntcVvED3O6LXODKBld9G61F69" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/aivan/Documents/python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.probando.executor": "Run",
+    "Python.prueba.executor": "Run",
+    "Python.video 03 Sintaxis Basica.executor": "Run",
+    "Python.video 06 Funciones II.executor": "Run",
+    "Python.video 07 las listas.executor": "Run",
+    "Python.video 17 Bucles IV While.executor": "Run",
+    "Python.video 19 Generadores I (1).executor": "Run",
+    "Python.video 19 Generadores I.executor": "Run",
+    "Python.video 20 Generadores II.executor": "Run",
+    "Python.video 21 Excepciones I.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ucb/Documents/progra/python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.video 19 Generadores I">
-    <configuration name="video 15 Bucles II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.video 21 Excepciones I">
+    <configuration name="probando" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -51,29 +80,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 15 Bucles II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="video 16 Bucles III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pildoras_informaticas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 16 Bucles III.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/probando.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,18 +91,19 @@
     </configuration>
     <configuration name="video 17 Bucles IV While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pildoras_informaticas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 17 Bucles IV While.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video 17 Bucles IV While.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,20 +112,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="video 18 Bucles V continue,pass y else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="video 19 Generadores I (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pildoras_informaticas" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.9 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 18 Bucles V continue,pass y else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video 19 Generadores I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,8 +136,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="video 19 Generadores I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="video 20 Generadores II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -139,7 +150,30 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 19 Generadores I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 20 Generadores II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video 21 Excepciones I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pildoras_informaticas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pildoras_informaticas/video 21 Excepciones I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,13 +184,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.video 19 Generadores I" />
-        <item itemvalue="Python.video 18 Bucles V continue,pass y else" />
+        <item itemvalue="Python.video 21 Excepciones I" />
+        <item itemvalue="Python.video 20 Generadores II" />
+        <item itemvalue="Python.probando" />
         <item itemvalue="Python.video 17 Bucles IV While" />
-        <item itemvalue="Python.video 16 Bucles III" />
-        <item itemvalue="Python.video 15 Bucles II" />
+        <item itemvalue="Python.video 19 Generadores I (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -175,6 +216,8 @@
       <workItem from="1679847860430" duration="12341000" />
       <workItem from="1686456496664" duration="25000" />
       <workItem from="1686456522413" duration="22000" />
+      <workItem from="1710172042966" duration="317000" />
+      <workItem from="1710172411045" duration="4894000" />
     </task>
     <servers />
   </component>
@@ -193,26 +236,32 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$video_08_Las_Tuplas.coverage" NAME="video 08 Las Tuplas Coverage Results" MODIFIED="1679622306972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_17_Bucles_IV_While.coverage" NAME="video 17 Bucles IV While Coverage Results" MODIFIED="1710173438605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$video_16_Bucles_III.coverage" NAME="video 16 Bucles III Coverage Results" MODIFIED="1679867407364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_17_Bucles_IV_While.coverage" NAME="video 17 Bucles IV While Coverage Results" MODIFIED="1679870522107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$clase_10_Tipado_Dinamico.coverage" NAME="clase 10 Tipado Dinamico Coverage Results" MODIFIED="1678456725443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
-    <SUITE FILE_PATH="coverage/python$clase_11_Relacionales.coverage" NAME="clase 11 Relacionales Coverage Results" MODIFIED="1678722508020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
-    <SUITE FILE_PATH="coverage/python$video_03_Sintaxis_Basica.coverage" NAME="video 03 Sintaxis Basica Coverage Results" MODIFIED="1678761072884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_15_Bucles_II.coverage" NAME="video 15 Bucles II Coverage Results" MODIFIED="1679863972357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_09_Diccionarios.coverage" NAME="video 09 Diccionarios Coverage Results" MODIFIED="1679850872385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$clase_6_Constantes.coverage" NAME="clase 6 Constantes Coverage Results" MODIFIED="1678455047230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
-    <SUITE FILE_PATH="coverage/python$clase_5.coverage" NAME="clase 5 Coverage Results" MODIFIED="1678454846056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1710173090130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$video_03_Sintaxis_Basica.coverage" NAME="video 03 Sintaxis Basica Coverage Results" MODIFIED="1710173128664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$video_21_Excepciones_I.coverage" NAME="video 21 Excepciones I Coverage Results" MODIFIED="1710177468188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
     <SUITE FILE_PATH="coverage/python$video_11_Condicionales_II.coverage" NAME="video 11 Condicionales II Coverage Results" MODIFIED="1679851720604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_14_Bucles_I.coverage" NAME="video 14 Bucles I Coverage Results" MODIFIED="1679855484413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$clase_9_Tipo_de_Datos.coverage" NAME="clase 9 Tipo de Datos Coverage Results" MODIFIED="1678456302520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$video_18_Bucles_V_continue_pass_y_else.coverage" NAME="video 18 Bucles V continue,pass y else Coverage Results" MODIFIED="1679871117814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$probando.coverage" NAME="probando Coverage Results" MODIFIED="1710174587554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_10_Condicionales_I.coverage" NAME="video 10 Condicionales I Coverage Results" MODIFIED="1679851516735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_07_las_listas.coverage" NAME="video 07 las listas Coverage Results" MODIFIED="1710173193811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$video_19_Generadores_I.coverage" NAME="video 19 Generadores I Coverage Results" MODIFIED="1679871384923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
     <SUITE FILE_PATH="coverage/python$Video_12_Condicionales_IV.coverage" NAME="Video 12 Condicionales IV Coverage Results" MODIFIED="1679854824088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_07_las_listas.coverage" NAME="video 07 las listas Coverage Results" MODIFIED="1678763614480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_6_Funciones_II.coverage" NAME="video 6 Funciones II Coverage Results" MODIFIED="1678761694382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_12_Condicionales_III.coverage" NAME="video 12 Condicionales III Coverage Results" MODIFIED="1679854817330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_18_Bucles_V_continue_pass_y_else.coverage" NAME="video 18 Bucles V continue,pass y else Coverage Results" MODIFIED="1679871117814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$video_10_Condicionales_I.coverage" NAME="video 10 Condicionales I Coverage Results" MODIFIED="1679851516735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
-    <SUITE FILE_PATH="coverage/python$clase_9_Tipo_de_Datos.coverage" NAME="clase 9 Tipo de Datos Coverage Results" MODIFIED="1678456302520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$video_08_Las_Tuplas.coverage" NAME="video 08 Las Tuplas Coverage Results" MODIFIED="1679622306972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_20_Generadores_II.coverage" NAME="video 20 Generadores II Coverage Results" MODIFIED="1710176495057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_06_Funciones_II.coverage" NAME="video 06 Funciones II Coverage Results" MODIFIED="1710173152605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$clase_8_Comentarios.coverage" NAME="clase 8 Comentarios Coverage Results" MODIFIED="1678455440319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$clase_6_Constantes.coverage" NAME="clase 6 Constantes Coverage Results" MODIFIED="1678455047230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$video_15_Bucles_II.coverage" NAME="video 15 Bucles II Coverage Results" MODIFIED="1679863972357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_09_Diccionarios.coverage" NAME="video 09 Diccionarios Coverage Results" MODIFIED="1679850872385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_14_Bucles_I.coverage" NAME="video 14 Bucles I Coverage Results" MODIFIED="1679855484413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$clase_11_Relacionales.coverage" NAME="clase 11 Relacionales Coverage Results" MODIFIED="1678722508020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$video_12_Condicionales_III.coverage" NAME="video 12 Condicionales III Coverage Results" MODIFIED="1679854817330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$video_6_Funciones_II.coverage" NAME="video 6 Funciones II Coverage Results" MODIFIED="1678761694382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pildoras_informaticas" />
+    <SUITE FILE_PATH="coverage/python$clase_5.coverage" NAME="clase 5 Coverage Results" MODIFIED="1678454846056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$clase_10_Tipado_Dinamico.coverage" NAME="clase 10 Tipado Dinamico Coverage Results" MODIFIED="1678456725443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo facilito" />
+    <SUITE FILE_PATH="coverage/python$video_19_Generadores_I__1_.coverage" NAME="video 19 Generadores I (1) Coverage Results" MODIFIED="1710173237458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
