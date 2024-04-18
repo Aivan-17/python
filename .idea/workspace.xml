@@ -39,32 +39,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.probando.executor": "Run",
-    "Python.prueba.executor": "Run",
-    "Python.video 03 Sintaxis Basica.executor": "Run",
-    "Python.video 06 Funciones II.executor": "Run",
-    "Python.video 07 las listas.executor": "Run",
-    "Python.video 17 Bucles IV While.executor": "Run",
-    "Python.video 19 Generadores I (1).executor": "Run",
-    "Python.video 19 Generadores I.executor": "Run",
-    "Python.video 20 Generadores II.executor": "Run",
-    "Python.video 21 Excepciones I.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ucb/Documents/progra/python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.probando.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 03 Sintaxis Basica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 06 Funciones II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 07 las listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 17 Bucles IV While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 19 Generadores I (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 19 Generadores I.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 20 Generadores II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video 21 Excepciones I.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ucb/Documents/progra/python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.video 21 Excepciones I">
     <configuration name="probando" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
@@ -121,7 +121,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.9 (pythonProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
